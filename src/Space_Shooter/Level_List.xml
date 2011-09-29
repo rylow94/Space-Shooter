@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<level id = "1">
+		<wave id = "1">
+			<enemy x = "25" y = "10" type = "1"></enemy>
+			<enemy x = "75" y = "10" type = "1"></enemy>
+			<enemy x = "125" y = "10" type = "1"></enemy>
+			<enemy x = "175" y = "10" type = "1"></enemy>
+			<enemy x = "225" y = "10" type = "1"></enemy>
+			<enemy x = "275" y = "10" type = "1"></enemy>
+			<enemy x = "325" y = "10" type = "1"></enemy>
+			<enemy x = "375" y = "10" type = "1"></enemy>
+		</wave>
+		<wave id = "2">
+			<enemy x = "25" y = "10" type = "1"></enemy>
+			<enemy x = "75" y = "10" type = "1"></enemy>
+			<enemy x = "125" y = "10" type = "1"></enemy>
+			<enemy x = "175" y = "10" type = "1"></enemy>
+			<enemy x = "225" y = "10" type = "1"></enemy>
+			<enemy x = "275" y = "10" type = "1"></enemy>
+			<enemy x = "325" y = "10" type = "1"></enemy>
+			<enemy x = "375" y = "10" type = "1"></enemy>
+			<enemy x = "25" y = "50" type = "1"></enemy>
+			<enemy x = "75" y = "50" type = "1"></enemy>
+			<enemy x = "125" y = "50" type = "1"></enemy>
+			<enemy x = "175" y = "50" type = "1"></enemy>
+			<enemy x = "225" y = "50" type = "1"></enemy>
+			<enemy x = "275" y = "50" type = "1"></enemy>
+			<enemy x = "325" y = "50" type = "1"></enemy>
+			<enemy x = "375" y = "50" type = "1"></enemy>
+		</wave>
+	</level>
+</data>
